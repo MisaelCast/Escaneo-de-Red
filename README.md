@@ -104,7 +104,9 @@ Para detener el monitor:
 ## Evidencia
 
 Escaneo Inicial
+
 ![Captura del escaneo inicial](assets/1.png)
 
 Edición de Hostname
+
 ![Captura del escaneo inicial](assets/2.png)
