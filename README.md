@@ -6,13 +6,13 @@
 ---
 
 
-| **Asignatura**  Administración de redes   
-| **Docente**  Mario Cesar Medina Ortiz   
-| **Actividad**  Proyecto / solucion edcaneo de redes   
-| **Nombre del estudiante**  Misael Castillo Ríos   
-| **Matrícula**  al19760561   
-| **Grupo**  8SS   
-| **Fecha de entrega**  18 de noviembre 2025   
+ **Asignatura**         Administración de redes   
+ **Docente**            Mario Cesar Medina Ortiz   
+ **Actividad**          Proyecto / solucion edcaneo de redes   
+ **Estudiante**         Misael Castillo Ríos   
+ **Matrícula**          al19760561   
+ **Grupo**              8SS   
+ **Fecha**              18 de noviembre 2025   
 
 ---
 
