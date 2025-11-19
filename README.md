@@ -1,3 +1,22 @@
+# Portada Institucional
+
+## **Tecnológico Nacional de México**
+### **Instituto Tecnológico de Ensenada**
+
+---
+
+| Campo | Detalle |
+| :--- | :--- |
+| **Asignatura** | Administración de redes |
+| **Docente** | Mario Cesar Medina Ortiz |
+| **Actividad** | Proyecto / solucion ecaneo de redes |
+| **Nombre del estudiante** | Misael Castillo Ríos |
+| **Matrícula** | al19760561 |
+| **Grupo** | 8SS |
+| **Fecha de entrega** | 18 de noviembre 2025 |
+
+---
+
 # Monitor de Red Activa con Flask y Nmap
 
 Este proyecto es un monitor de red simple desarrollado en **Python
@@ -80,3 +99,13 @@ sudo python3 app.py
 Para detener el monitor:
 
     Ctrl + C
+
+------------------------------------------------------------------------
+
+## Evidencia
+
+Escaneo Inicial
+![Captura del escaneo inicial](assets/1.png)
+
+Edición de Hostname
+![Captura del escaneo inicial](assets/2.png)
