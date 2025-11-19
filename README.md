@@ -1,4 +1,4 @@
-# 🟢 Monitor de Red Activa con Flask y Nmap
+# Monitor de Red Activa con Flask y Nmap
 
 Este proyecto es un monitor de red simple desarrollado en **Python
 (Flask)** para la interfaz web y **Nmap** para la detección de
@@ -6,7 +6,7 @@ dispositivos activos (host discovery).
 
 ------------------------------------------------------------------------
 
-## 📂 Estructura del Proyecto
+## Estructura del Proyecto
 
 El proyecto está diseñado para ser ligero, utilizando solo unos pocos
 archivos clave:
@@ -18,7 +18,7 @@ archivos clave:
 
 ------------------------------------------------------------------------
 
-## ⚙️ Instalación y Requisitos (Ubuntu/Linux)
+## Instalación y Requisitos (Ubuntu/Linux)
 
 ### 1. Requisitos del Sistema
 
@@ -62,7 +62,7 @@ sudo python3 app.py
 
 ------------------------------------------------------------------------
 
-## 🖥️ Uso
+## Uso
 
 -   Abre tu navegador y ve a:\
     **http://127.0.0.1:5000/**
@@ -75,7 +75,7 @@ sudo python3 app.py
 
 ------------------------------------------------------------------------
 
-## 🛑 Detener
+## Detener
 
 Para detener el monitor:
 
