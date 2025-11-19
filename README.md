@@ -52,7 +52,7 @@ define las redes a escanear (una por línea):
 
 ------------------------------------------------------------------------
 
-## 🚀 Ejecución
+## Ejecución
 
 Ejecuta el servidor web con:
 
@@ -67,7 +67,7 @@ sudo python3 app.py
 -   Abre tu navegador y ve a:\
     **http://127.0.0.1:5000/**
 
--   Presiona el botón **"🚨 Escanear Red Ahora (Nmap)"** para iniciar el
+-   Presiona el botón **"Escanear Red Ahora"** para iniciar el
     escaneo y actualizar el estado de los dispositivos.
 
 -   Haz clic en cualquier celda de la columna **Hostname** para editar y
